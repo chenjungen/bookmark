@@ -19,3 +19,6 @@
 
 ## Python
 ### https://github.com/qiwsir/StarterLearningPython
+
+## linux
+### https://github.com/zhangyouliang/linuxlearn
